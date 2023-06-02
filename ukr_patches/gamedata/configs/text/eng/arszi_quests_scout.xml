@@ -6,7 +6,7 @@
 <!-- Cold Холод(ЧН) -->
 <!-- mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout -->
 	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_title">
-		<text>Розвідати місцевість на Болоті. </ text >
+		<text>Розвідати місцевість на Болоті.</ text >
 	</string>
 <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_descr">
 		<text>Холод попросив мене розвідати певні місця на Болоті.</text>
