@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="st_ftl_not_enough_money">
+		<text>Not enough money for fast travel.\n
+			Fast Travel Cost: %s\n
+			Your Money: %s
+		</text>
+	</string>
+	<string id="st_ftl_next_travel_available">
+		<text>Next fast travel will be available after %s hr(s).</text>
+	</string>
+	<string id="st_ftl_get_travel_cost">
+		<text>Get Fast Travel Cost</text>
+	</string>
+	<string id="st_ftl_show_travel_cost">
+		<text>Fast Travel Cost: %s</text>
+	</string>
+	
+</string_table>
