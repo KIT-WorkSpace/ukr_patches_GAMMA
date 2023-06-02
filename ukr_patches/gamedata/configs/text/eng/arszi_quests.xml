@@ -3,13 +3,13 @@
 <!-- Butcher -->
 <!-- hunter_gar_trader_task_common_trophy -->
 	<string id="igi_task_text_arszi_fetch_trophy_title">
-		<text>Find common mutant trophies</text>
+		<text>Принести звичайні трофеї з мутантів</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_trophy_descr">
-		<text>Butcher has asked me to bring him some common trophies</text>
+		<text>М'ясник попросив мене принести частини мутантів</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_trophy_job_descr">
-		<text>Meat is not the only part of mutants, which might be valuable. Some stalkers prize specific parts of mutants as trophies or lucky charms. You know, like a nice pseudodog fang necklace or a fluffy cat tail hanging from the belt. Anyone can hunt down a mutant and wear its parts as a symbol of achivement, but to create exceptionally spectacular items, it requires real skill! - Bring me some trophies, and I'll craft some stylish accessories out of them. Are you in?</text>
+		<text>М'ясо – не єдина частина мутантів, яка може бути цінною. Деякі сталкери цінують певні частини мутантів як трофеї чи талісмани удачі. Ну, наприклад, гарне намисто з іклів псевдособаки або пухнастий котячий хвіст, що звисає з пояса. Будь-хто може вистежити мутанта і носити його частини як символ досягнення, але для створення винятково ефектних предметів потрібна справжня майстерність! - Принеси мені кілька трофеїв, і я зроблю декілька стильних аксесуарів. Берешся?</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_trophy_finish">
 		<text>Some fine materials you've gathered. Well done, hunter.</text>
