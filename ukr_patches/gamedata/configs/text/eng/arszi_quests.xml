@@ -16,145 +16,148 @@
 	</string>
 <!-- hunter_gar_trader_task_common_hide -->
 	<string id="igi_task_text_arszi_fetch_hide_title">
-		<text>Find common mutant hides and pelts</text>
+		<text>Найти обычные шкуры мутантов</text>
+	</string>
+    <string id="igi_task_text_arszi_fetch_hide_descr">
+		<text>Мясник попросил меня принести шкуры мутантов</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_hide_job_descr">
-		<text>The weather is growing colder and colder ... Mutants in the Zone have learned how to survive the hazards of the local weather by growing warm fur. It is time to gather some pelts! Also, pelts are not just for keeping you warm, but they have many utilities like repairing weary armour or giving you an edge against anomalies! Gather some hides for me, and you will be rewarded.</text>
+		<text>Погода становится все холоднее и холоднее ... Мутанты в Зоне научились противостоять опасностям местной погоды, выращивая теплый мех. Пора собирать шкурки! Кроме того, шкуры не только согревают, но и имеют много полезных функций вроде ремонта поврежденной брони или предоставления защиты от аномалий! Принеси мне несколько шкур и получи награду.</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_hide_finish">
-		<text>See, skinning some mutants wasn't that difficult, was it, hunter?</text>
+		<text>Видишь, снимать шкуру с мутантов не так уж и сложно, да, охотник?</text>
 	</string>
 	<!-- hunter_gar_trader_task_psy_dog_fur -->
 	<string id="igi_task_text_arszi_fetch_psy_dog_fur_title">
-		<text>The finest pelt - Find a Psy-dog pelt for Butcher</text>
+		<text>Лучшая шкура - найти шкуру пси-собаки</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_psy_dog_fur_descr">
-		<text>Butcher has asked me to bring him a rare Psy-dog pelt.</text>
+		<text>Мясник попросил меня найти шкуру пси-собаки для Мясника.</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_psy_dog_fur_job_descr">
-		<text>There is a creature which dwells deep in the heart of the Zone. It is quite a rare sight and not many stalkers survive an encounter with it. Its howl freezes your blood and its eyes see into your mind and soul! This creature is called Psy-dog, a creature of both beauty and death with a unique silvery fur. The finest pelt many hunters long for. Bring me a Psy-dog pelt, hunter.</text>
+		<text>Есть существо, которое обитает глубоко в сердце Зоны. Оно довольно редкое, и немногие сталкеры переживают встречу с ним. Его вой замораживает вашу кровь, а его глаза заглядывают в ваш разум и душу! Это существо называется пси-собака, существо и красоты, и смерти с уникальным серебристым мехом. Самая лучшая шкура, о которой мечтают многие охотники. Принеси мне шкуру пси-собаки, охотник.</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_psy_dog_fur_finish">
-		<text>Do you have it? Yes! One of the finest pelts I have ever seen in my life. Here is your payment, hunter, and something else, which I found in the days around and have not much use for.</text>
+		<text>Она у тебя есть? Да! Одна из лучших шкур, которые я когда-либо видел в своей жизни. Вот твоя плата, охотник, и еще кое-что, что я нашел в свое время и не очень-то мне пригодилось.</text>
 	</string>
 	<!-- hunter_gar_trader_task_arszi_fetch_beak -->
 	<string id="igi_task_text_arszi_fetch_beak_title">
-		<text>Legends of the Zone - Find a mutated crow beak for Butcher</text>
+		<text>Легенды Зоны - Найти мутировавший клюв вороны для Мясника</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_beak_descr">
-		<text>Butcher has asked me to bring him a rare mutated beak of a crow.</text>
+		<text>Мясник попросил меня принести мутировавший клюв вороны.</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_beak_job_descr">
-		<text>There are many legends about the Zone. But there are only a few which interest us, hunters. The magical mutated beak of an elder crow is one of these legends. Some stalkers believe if you make a drink out of it and drink it, you will gain supernatural abilities temporarily. This means, there are some stalkers, who would pay handsomely for it. Bring me a mutated beak of an elder crow.</text>
+		<text>О Зоне существует много легенд. Но есть только некоторые, которые интересуют нас, охотников. Волшебный мутированный клюв старшей вороны - одна из этих легенд. Некоторые сталкеры полагают, что если из него сделать отвар и выпить, то временно приобретешь сверхъестественные способности. Это значит, что есть сталкеры, которые за это неплохо заплатят. Принеси мне мутированный клюв старой вороны.</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_beak_finish">
-		<text>So this is that legendary beak. It looks kind of different indeed. Here is your payment, hunter.</text>
+		<text>Так это и есть тот легендарный клюв. Действительно, он выглядит по-другому. Вот твоя плата, охотник.</text>
 	</string>
 	<!-- hunter_gar_trader_task_bloodsucker -->
 	<string id="igi_task_text_arszi_fetch_bloodsucker_title">
-		<text>Exquisite jewelry</text>
+		<text>Изысканные украшения</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_bloodsucker_descr">
-		<text>Butcher has asked me to bring him bloodsucker jaw.</text>
+		<text>Мясник попросил меня принести ему челюсть кровососа.</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_bloodsucker_job_descr">
-		<text>People say, Bloodsuckers are rare. Well, it is not entirely true. People do not see too much of them, because most stalkers do not survive the encounter to tell about it ... In reality, Bloodsuckers are swarming everywhere. During the day they hide, and come out to hunt during the night. I can make exceptionally fine jewelry using their jaws. Collect me some bloodsucker jaws, and be careful during the hunt! If you do not see them, it does not mean, that they do not see you ...</text>
+		<text>Говорят, что кровососы - редкость. Ну, это не совсем так. Люди не слишком часто видят их, потому что большинство сталкеров не переживают встречи, чтобы рассказать об этом... На самом деле кровососы кишат повсюду. Днем они прячутся, а ночью выходят на охоту. Я могу сделать исключительно изысканные  украшения, используя их челюсти. Собери мне несколько челюстей кровососа и будь осторожен во время охоты! Если ты их не видишь, это не значит, что они тебя не видят...</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_bloodsucker_finish">
-		<text>Excellent! I hope they did not taste you during the hunting. Here is your payment, hunter.</text>
+		<text>Отлично! Надеюсь, они не попробовали тебя во время охоты. Вот твоя плата, охотник.</text>
 	</string>
 	<!-- hunter_gar_trader_task_chimera -->
 	<string id="igi_task_text_arszi_fetch_chimera_title">
-		<text>The ultimate hunter</text>
+		<text>Лучший охотник</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_chimera_descr">
-		<text>Butcher has asked me to bring him part of chimera</text>
+		<text>Мясник попросил меня принести трофей с химеры.</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_chimera_job_descr">
-		<text>Back then humans feared animals, then animals feared humans. But everything changed again, when the Zone appeared ... There are no hunters and prey in the Zone, but hunters only. Today you are the hunter, tomorrow you might be the hunted one. There is a creature, the ultimate hunter, the Chimera. The pinnacle of evolution. Are you brave enough to face the ultimate test as a hunter? If yes, then hunt down a Chimera, and bring me a trophy. I will wait for your return!</text>
+		<text>Раньше люди боялись животных, потом животные боялись людей. Но все снова изменилось, когда появилась Зона ... В Зоне нет охотников и добычи, а есть только охотники. Сегодня ты охотник, а завтра, возможно, станешь жертвой. Есть существо, абсолютный охотник, Химера. Вершина эволюции. Достаточно ли ты храбр, чтобы столкнуться с окончательным испытанием в качестве охотника? Если да, то выследи химеру и принеси мне пару трофеев. Я буду ждать твоего возвращения!</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_chimera_finish">
-		<text>The finest trophy you have brought for me! Here is your reward, master hunter, and something else, which I found in the days around and have not much use for. You have earned it!</text>
+		<text>Самый лучший трофей, который ты мне принес! Вот твоя награда, мастер-охотник, и еще кое-что из моих старых запасов, что мне не очень-то пригодилось. Ты это заслужил!</text>
 	</string>
 <!-- Fanatic -->
 <!-- esc_2_12_stalker_fanat_task_meat -->
 	<string id="igi_task_text_arszi_fetch_meat_title">
-		<text>Food for the rookies</text>
+		<text>Еда для новичков</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_meat_descr">
-		<text>Fanatic has asked me to bring him some supplies</text>
+		<text>Фанат попросил меня добыть припасы</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_meat_job_descr">
-		<text>More and more rookies arrive each day, and because of this Rookie village is a bit low on supplies. I would like to ask you to go and fetch some meat, so we can aid the rookies in need with a warm meal.</text>
+		<text>С каждым днем прибывает все больше и больше новичков, и из-за этого в Деревне Новичков не хватает припасов. Я хотел бы попросить тебя пойти и принести немного мяса, чтобы мы могли помочь нуждающимся новичкам с горячей едой.</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_meat_finish">
-		<text>Thank you my friend, here is your reward for helping us out!</text>
+		<text>Зпасибо, друг, вот твоя плата за помошь!</text>
 	</string>
 <!-- Wolf -->
 <!-- esc_2_12_stalker_wolf_task_night -->
 	<string id="igi_task_text_night_title">
-		<text>Night terror on Cordon - Eliminate mutants</text>
+		<text>Ночной террор на Кордоне - Уничтожить мутантов.</text>
 	</string>
     <string id="igi_task_text_night_descr">
-		<text>Wolf asked me to eliminate dangerous nightly mutants.</text>
+		<text>Волк попросил меня уничтожить опасных ночных мутантов.</text>
 	</string>
     <string id="igi_task_text_night_job_descr">
-		<text>Can't sleep either? Maybe for the better. Listen, I just received a report from some frightened rookies, that they heard strange sounds in the area. Based on the description of the sounds, it must be some kind of dangerous nightly mutant. I want you to find the source of the sounds, and hunt it down for the safety of the village! </text>
+		<text>Тоже не можешь уснуть? Может, и к лучшему. Послушайте, я только что получил сообщение от нескольких испуганных новичков, что они слышали странные звуки в этом районе. Судя по описанию, это какой-то опасный ночной мутант. Я хочу, чтобы ты нашел источник звуков и выследил его ради безопасности деревни! </text>
 	</string>
 	<string id="igi_task_text_night_finish">
-		<text>Thank you for your hard work, Rookie village is safe, for now ... Here is your reward.</text>
+		<text>Спасибо за твою тяжелую работу, Деревня Новичков пока в безопасности ... Вот твоя награда.</text>
 	</string>
 <!-- Sakharov -->
 <!-- yan_stalker_sakharov_task_mutant_parts_specimen_monster_common -->
 	<string id="igi_task_text_arszi_fetch_monster_common_title">
-		<text>Collecting common mutant samples</text>
+		<text>Сбор образцов мутантов</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_monster_common_descr">
-		<text>Sakharov has asked me to bring him some common mutant samples</text>
+		<text>Сахаров попросил меня собрать несколько образцов мутантов</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_monster_common_job_descr">
-		<text>We are out of common mutant samples. While our priority of research is on rare humanoid mutants and artefacts, we are still interested in the changes happening in the local wildlife. Apart from personal interest, there might be still things we can learn about the unique ways of evolution the animals took in the Zone. Several species show promising abilities, which we can use to develop new medicines or just understand more about the Zone itself. Would you like to help science? All you have to do is to bring me some samples!</text>
+		<text>У нас закончились обычные образцы мутантов. Хотя нашим приоритетом являются исследования редких гуманоидных мутантов и артефактов, нас по-прежнему интересуют изменения, происходящие в местной дикой природе. Помимо личной заинтересованности, мы еще можем узнать об уникальных путях эволюции животных, взятых в Зоне. Несколько видов животных демонстрируют перспективные способности, которые мы можем использовать для разработки новых лекарств или просто больше узнать о самой Зоне. Хотите помочь науке? Все, что вам нужно сделать, это принести мне образцы!</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_monster_common_finish">
-		<text>Thank you, young man! Here is your reward.</text>
+		<text>Спасибо, молодой человек! Вот ваша награда.</text>
 	</string>
 <!-- yan_stalker_sakharov_task_mutant_parts_specimen_zombie -->
 	<string id="igi_task_text_arszi_fetch_zombie_title">
-		<text>Collecting zombified humanoid samples</text>
+		<text>Сбор образцов зомбированных гуманоидов</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_zombie_descr">
-		<text>Sakharov has asked me to bring him some zombified humanoid samples</text>
+		<text>Сахаров попросил меня принести несколько образцов зомби</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_zombie_job_descr">
-		<text>There are many unique phenomeons in the Zone. We are especially interested in Psy-related effects, like the ability which certain mutants or anomalies bear. On the other hand, the result of these effects are astonishing. Victims of these effects are still &quot;alive&quot; in a way, while they should not be. This changes many theories about &quot;life&quot; itself. As you might have guessed already, I am talking about those so called &quot;zombiefied&quot; people, but I find the term highly unscientific. I am always eager to study the biological processes which took place in them after the brain became severely damaged by contact with high levels of Psy emissions. Please bring me some samples!</text>
+		<text>В Зоне много уникальных феномеонов. Нас особенно интересуют эффекты, связанные с пси-излучением, такие как способность, которую проявляют некоторые мутанты или аномалии. С другой стороны, результат этих эффектов поражает. Жертвы этих эффектов все еще &quot;живы&quot; в некотором смысле, хотя они не должны быть. Это меняет многие теории о самой &quot;жизни&quot;. Как вы уже могли догадаться, я говорю о так называемых &quot;зомбированных&quot; людях, но я нахожу этот термин весьма ненаучным. Я всегда жажду изучать биологические процессы, которые происходили в них после того, как мозг стал сильно поврежден при контакте с высоким уровнем выбросов пси-излучения. Пожалуйста, принесите мне образцы!</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_zombie_finish">
-		<text>It is sad indeed, to end up like this ... Oh yes, here is your reward.</text>
+		<text>Это действительно печально, закончить так... О да, вот ваша награда.</text>
 	</string>
 <!-- yan_stalker_sakharov_task_mutant_parts_specimen_humanoid -->
 	<string id="igi_task_text_arszi_fetch_humanoid_title">
-		<text>Collecting humanoid samples</text>
+		<text>Сбор гуманоидных образцов</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_humanoid_descr">
-		<text>Sakharov has asked me to bring him some humanoid samples</text>
+		<text>Сахаров попросил меня принести несколько гуманоидных образцов</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_humanoid_job_descr">
-		<text>The Zone has changed life as we know it. Not for animals only, but for humans too! There is a considerable amount of reports about heavily mutated humans, with new, fascinating abilities. Mind control, superhuman strength, regeneration, and many more. We are most interested in samples of these mutated humans, or if we can say, humanoid mutants. Naturally, their curious intellect makes them far more formidable than the pigs or dogs that less experienced stalkers are used to. It's certainly a dangerous request, but if you bring me a sample, you'll be a wealthy stalker indeed!</text>
+		<text>Зона изменила жизнь, какой мы ее знаем. Не только для животных, но и для людей тоже! Существует значительное количество сообщений о сильно мутировавших людях, обладающих новыми, захватывающими способностями. Контроль над разумом, сверхчеловеческая сила, регенерация и многое другое. Нас больше всего интересуют образцы этих мутировавших людей, или, если можно так выразиться, гуманоидных мутантов. Естественно, их любопытный интеллект делает их гораздо более грозными, чем свиньи или собаки, к которым привыкли менее опытные сталкеры. Это, конечно, опасная просьба, но если вы принесете мне образцы, вы действительно станете богатым сталкером!</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_humanoid_finish">
-		<text>Fascinating! These samples might open a door for science beyond imagination. Your reward, as promised!</text>
+		<text>Очаровательно! Эти образцы могли бы открыть дверь для науки за гранью воображения. Ваша награда, как и было обещано!</text>
 	</string>
 <!-- yan_stalker_sakharov_task_mutant_parts_specimen_mutant_rare -->
 	<string id="igi_task_text_arszi_fetch_monster_rare_title">
-		<text>Collecting rare mutant samples</text>
+		<text>Сбор редких образцов мутантов</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_monster_rare_descr">
-		<text>Sakharov has asked me to bring him some rare mutant samples</text>
+		<text>Сахаров попросил меня принести несколько редких образцов мутантов</text>
 	</string>
     <string id="igi_task_text_arszi_fetch_monster_rare_job_descr">
-		<text>Mutated animals exist, which can be considered apex predators, exist in the Zone. Only very few stalkers survive contact with them, which makes them very rare specimen for us. Rumours say, some of them can even survive the harshest conditions, like high radiation or contact with anomalies. I want to prove scientifically, if these rumors are true or not. Many things are possible in the Zone, which even I would have considered unscientific back then ... It will be a dangerous mission. Bring some samples, you will be rewarded well, stalker!</text>
+		<text>В Зоне существуют мутировавшие животные, которых можно считать высшими хищниками. Лишь очень немногие сталкеры переживают контакт с ними, что делает их очень редким экземпляром для нас. Ходят слухи, что некоторые из них могут выжить даже в самых суровых условиях, таких как высокая радиация или контакт с аномалиями. Я хочу научно доказать, правдивы эти слухи или нет. В зоне возможно многое, что даже я тогда счел бы ненаучным ... Это будет опасная миссия. Принесите образец, вы будете хорошо вознаграждены, сталкер!</text>
 	</string>
 	<string id="igi_task_text_arszi_fetch_monster_rare_finish">
-		<text>We can rarely work on excellent specimen like these. They hold so many secrets to be uncovered! Here is your reward.</text>
+		<text>Мы редко можем работать с такими превосходными образцами. Они хранят так много тайн, которые нужно раскрыть! Вот ваша награда.</text>
 	</string>
 </string_table>
