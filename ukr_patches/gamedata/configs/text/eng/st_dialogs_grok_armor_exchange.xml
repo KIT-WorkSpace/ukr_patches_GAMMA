@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="0_insider">
+		<text>I would like to exchange armor.</text>
+	</string>
+	<string id="1_insider">
+		<text>Sure. Here's the deal. I'll give you armor of the same kind as the one you have in your possession, but only if they come from other factions. Though this is, of course, limited by our own stock.\n
+		Remember, I'll trade you armor in similar quality to the one you give me. If you give me shit, you'll get back shit.\n
+		By the way, this service is not free. Consider the cost as a fee for the whole service. We have to find and repair the equipment after all, eh?\n
+		So, what do you want to trade? I will check if I have an outfit matching what you seek.\n
+		</text>
+	</string>
+	<string id="armor_exchange_light">
+		<text>Light Armor [5000 RU]</text>
+	</string>
+	<string id="armor_exchange_medium">
+		<text>Medium Armor [10 000 RU]</text>
+	</string>
+	<string id="armor_exchange_specops">
+		<text>Specops Outfit [25000 RU]</text>
+	</string>
+	<string id="armor_exchange_sci">
+		<text>Scientific Outfit [15000 RU]</text>
+	</string>
+	<string id="armor_exchange_skat">
+		<text>Skat9 Heavy Armor [25000 RU]</text>
+	</string>
+	<string id="armor_exchange_exolight">
+		<text>Exosuit Heavy Armor [30000 RU]</text>
+	</string>
+	<string id="armor_exchange_exo">
+		<text>Exoskeleton-powered Armor [45000 RU]</text>
+	</string>
+	<string id="armor_exchange_noso">
+		<text>Nosorog-class Exoskeleton [65000 RU]</text>
+	</string>
+	<string id="armor_exchange_exit">
+		<text>Actually, nevermind.</text>
+	</string>
+</string_table>
