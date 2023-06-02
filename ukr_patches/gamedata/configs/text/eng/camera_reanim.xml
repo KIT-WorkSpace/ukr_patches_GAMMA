@@ -1,6 +1,5 @@
-<!-- 
+﻿<!--
 	Anomaly Modconfiguration Menu strings
-	
 -->
 
 <string_table>
@@ -9,25 +8,25 @@
 		<text>I.N.E.R.T.I.A.</text>
 	</string>
 	<string id="ui_mcm_menu_crpmcm">
-		<text>Camera Reanim Project</text>
+		<text>Camera Reanim Project (Проект РеАнімації Камери)</text>
 	</string>
 	<string id="ui_mcm_crpmcm_jump_land">
-		<text>Jump and Land effects</text>
+		<text>Ефект стрибка/приземлення:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_leaning">
-		<text>Lean effects</text>
+		<text>Ефект нахилу:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_wpn_ads">
-		<text>Weapon ADS effects</text>
+		<text>Ефект прицілювання:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_moving">
-		<text>Run/Walk effects</text>
+		<text>Ефект ходьби/бігу:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_crouch">
-		<text>Crouch effects</text>
+		<text>Ефект присідання:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_fire_mode">
-		<text>Fire mode switcher effects</text>
+		<text>Ефект перемикання режиму вогню:</text>
 	</string>
 
 </string_table>
