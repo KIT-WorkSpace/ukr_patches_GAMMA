@@ -1,1 +1,9 @@
-*.*	working-tree-encoding=cp1251	eol=crlf
+* text=auto
+
+# Windows files (need CRLF)
+*.xml text eol=crlf
+
+#binary files
+*.ipg -text
+*.gif -text
+# --
