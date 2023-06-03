@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="windows-1251"?>
+<!-- Translated by K.I.T. -->
+<!-- Перекладено K.I.T. -->
 
 <string_table>
 	<string id="ui_mcm_menu_detector_selector">
-		<text>
-		Device Selector Keys
-		</text>
+<!-- 		<text>Device Selector Keys</text> -->
+		<text>"Діставач" пристроїв</text>
 	</string>
 		<string id="ui_mcm_detector_selector_keybind_anomaly">
-		<text>
-		Detector select key
-		</text>
+<!-- 		<text>Detector select key</text> -->
+		<text>Щоб дістати детектор:</text>
 	</string>
 	<string id="ui_mcm_detector_selector_keybind_lights">
-		<text>
-		Flashlight select key
-		</text>
+<!-- 		<text>Flashlight select key</text> -->
+		<text>Щоб дістати ручний ліхтарик:</text>
 	</string>
 	<string id="ui_mcm_detector_selector_keybind_radio">
-		<text>
-		RF Receiver select key
-		</text>
+<!-- 		<text>RF Receiver select key</text> -->
+		<text>Щоб дістати РЧ-приймач (RF-receiver):</text>
 	</string>
 	<string id="ui_mcm_detector_selector_keybind_geiger">
-		<text>
-		Geiger select key
-		</text>
+<!-- 		<text>Geiger select key</text> -->
+		<text>Щоб дістати лічильник Гейгера:</text>
 	</string>
 	<string id="ui_mcm_detector_selector_keybind_glowsticks">
-		<text>
-		Glowstick select key
-		</text>
+<!-- 		<text>Glowstick select key</text> -->
+		<text>Щоб дістати сяючу паличку (Glowstick):</text>
 	</string>
 	<string id="ui_mcm_detector_selector_keybind_detector_anomaly">
-		<text>
-		Anomaly detector select key
-		</text>
+<!-- 		<text>Anomaly detector select key</text> -->
+		<text>Щоб дістати детектор аномалій:</text>
 	</string>
 </string_table>
