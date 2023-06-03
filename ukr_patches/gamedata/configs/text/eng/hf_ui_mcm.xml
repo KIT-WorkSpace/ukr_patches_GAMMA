@@ -1,45 +1,58 @@
 <?xml version="1.0" encoding="windows-1251"?>
+<!-- Translated by K.I.T. -->
+<!-- Перекладено K.I.T. -->
+
 <string_table>
 
 	
     <string id="ui_mcm_menu_aol_hf">
-        <text>Hideout Furniture</text>
+<!-- 	    <text>Hideout Furniture</text> -->
+        <text>Меблі для прихистка</text>
     </string>
 
 	<string id="ui_mcm_aol_hf_bind_left">
-		<text>Rotate Object Clockwise</text>
+<!-- 		<text>Rotate Object Clockwise</text> -->
+		<text>Повернути об'єкт за годиниковоб стрілкою:</text>
 	</string>
 
     <string id="ui_mcm_aol_hf_bind_right">
-		<text>Rotate Object Anti-Clockwise</text>
+<!-- 		<text>Rotate Object Anti-Clockwise</text> -->
+		<text>Повернути об’єкт проти годинникової стрілки:</text>
 	</string>
 
 	<string id="ui_mcm_aol_hf_bind_up">
-		<text>Move Object Upwards</text>
+<!-- 		<text>Move Object Upwards</text> -->
+		<text>Перемістити об'єкт вгору:</text>
 	</string>
 
     <string id="ui_mcm_aol_hf_bind_down">
-		<text>Move Object Downwards</text>
+<!-- 		<text>Move Object Downwards</text> -->
+		<text>Перемістити об'єкт вниз:</text>
 	</string>
 
     <string id="ui_mcm_aol_hf_bind_place">
-		<text>Place Object</text>
+<!-- 		<text>Place Object</text> -->
+		<text>Розмістити об’єкт:</text>
 	</string>
 
 	<string id="ui_mcm_aol_hf_bind_collision">
-		<text>Toggle Collision Checking</text>
+<!-- 		<text>Toggle Collision Checking</text> -->
+		<text>Увімкнути/вимкнути перевірку колізії:</text>
 	</string>
 
 	<string id="ui_mcm_aol_hf_disable_bbox">
-		<text>Disable Bounding Box During Placing</text>
+<!-- 		<text>Disable Bounding Box During Placing</text> -->
+		<text>Вимкнути обмежувальну рамку під час розміщення:</text>
 	</string>
 
 	<string id="ui_mcm_aol_hf_use_ingame_time">
-		<text>Lights Show In-game Time</text>
+<!-- 		<text>Lights Show In-game Time</text> -->
+		<text>Ліхтарі відображають час в грі:</text>
 	</string>
 
 	<string id="ui_mcm_aol_hf_update_mcm">
-		<text>Update MCM to set keybinds. Defaults to arrow keys for rotation, and 'F' for placing.</text>
+<!-- 		<text>Update MCM to set keybinds. Defaults to arrow keys for rotation, and 'F' for placing.</text> -->
+		<text>Оновіть MCM, щоб установити сполучення клавіш. За замовчуванням використовуються клавіші зі стрілками для повороту та «F» для розміщення.</text>
 	</string>
 
 
