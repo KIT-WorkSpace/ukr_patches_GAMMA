@@ -1,4 +1,4 @@
-п»ї<!--
+<!--
 	Anomaly Modconfiguration Menu strings
 -->
 
@@ -8,25 +8,25 @@
 		<text>I.N.E.R.T.I.A.</text>
 	</string>
 	<string id="ui_mcm_menu_crpmcm">
-		<text>Camera Reanim Project (РџСЂРѕРµРєС‚ Р РµРђРЅС–РјР°С†С–С— РљР°РјРµСЂРё)</text>
+		<text>Camera Reanim Project (Проект РеАнімації Камери)</text>
 	</string>
 	<string id="ui_mcm_crpmcm_jump_land">
-		<text>Р•С„РµРєС‚ СЃС‚СЂРёР±РєР°/РїСЂРёР·РµРјР»РµРЅРЅСЏ:</text>
+		<text>Ефект стрибка/приземлення:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_leaning">
-		<text>Р•С„РµРєС‚ РЅР°С…РёР»Сѓ:</text>
+		<text>Ефект нахилу:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_wpn_ads">
-		<text>Р•С„РµРєС‚ РїСЂРёС†С–Р»СЋРІР°РЅРЅСЏ:</text>
+		<text>Ефект прицілювання:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_moving">
-		<text>Р•С„РµРєС‚ С…РѕРґСЊР±Рё/Р±С–РіСѓ:</text>
+		<text>Ефект ходьби/бігу:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_crouch">
-		<text>Р•С„РµРєС‚ РїСЂРёСЃС–РґР°РЅРЅСЏ:</text>
+		<text>Ефект присідання:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_fire_mode">
-		<text>Р•С„РµРєС‚ РїРµСЂРµРјРёРєР°РЅРЅСЏ СЂРµР¶РёРјСѓ РІРѕРіРЅСЋ:</text>
+		<text>Ефект перемикання режиму вогню:</text>
 	</string>
 
 </string_table>
