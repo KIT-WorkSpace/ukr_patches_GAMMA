@@ -4,10 +4,10 @@
 		<text>Drop Item</text>
 	</string>
 	<string id="ui_mcm_drop_item_key_drop">
-		<text>Drop Item keybind</text>
+		<text>Клавіша для викидання предмету:</text>
 	</string>
 	<string id="ui_mcm_drop_item_key_drop_desc">
-        <text>Press key to drop hovered item from inventory to the ground.
+        <text>Натисніть цю клавішу, щоб кинути предмет під курсором на землю. Або з рюкзака в контейнер чі навпаки.
         </text>
 	</string>
 </string_table>
