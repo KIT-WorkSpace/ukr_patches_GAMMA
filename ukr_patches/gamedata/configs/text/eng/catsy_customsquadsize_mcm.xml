@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <!--
 -- Author: Catspaw
 -- Source: https://www.moddb.com/members/catspawmods/addons
@@ -5,15 +6,18 @@
 
 <string_table>
 	<string id="ui_mcm_menu_customsquadsize">
-		<text>Custom Companion Squad Size</text>
+<!--		<text>Custom Companion Squad Size</text>-->
+		<text>Розмір загону напарників</text>
 	</string>
 
 	<string id="ui_mcm_customsquadsize_maxsquadsize">
-		<text>Normal maximum number of companions</text>
+<!--		<text>Normal maximum number of companions</text>-->
+			<text>Звичаний розмір загону:</text>
 	</string>
 
 	<string id="ui_mcm_customsquadsize_maxsquadsize_folkhero">
-		<text>Maximum companions with with "Folk Hero" achievement</text>
+<!--		<text>Maximum companions with with "Folk Hero" achievement</text>-->
+			<text>Максимальний розмір з досягненням "Народний герой":</text>
 	</string>
 
 </string_table>
