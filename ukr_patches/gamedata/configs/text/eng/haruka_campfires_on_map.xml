@@ -6,20 +6,20 @@
 	</string>
 
 	<string id="ui_mcm_campfires_on_map_show_campfires">
-		<text>Display campfires</text>
+		<text>Відображати вогнища?</text>
 	</string>
 
 	<string id="ui_mcm_campfires_on_map_show_only_visited">
-		<text>Show only visited</text>
+		<text>Відобаржати тільки відвідані?</text>
 	</string>
 	<string id="ui_mcm_campfires_on_map_show_only_visited_desc">
-		<text>Makes it so only campfires that player interacted with are displayed on the map.</text>
+		<text>Якщо позначено, то на мапі будуть відображатися тільки вогнища, з якими взаємодіяв персонаж. КПК, міні-мапа. Взаємодіяти - підпалювати вогнища.</text>
 	</string>
 
     <string id="st_campfire">
-		<text>Campfire</text>
+		<text>Вогнище</text>
 	</string>
       <string id="st_campfire_visited">
-		<text>%c[ui_white]Campfire (%c[d_orange]Visited%c[ui_white])</text>
+		<text>%c[ui_white]Вогнище (%c[d_orange]відвідане%c[ui_white])</text>
 	</string>
 </string_table>
