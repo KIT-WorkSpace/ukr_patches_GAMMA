@@ -1,41 +1,45 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
 	<string id="ui_mcm_menu_EA_settings">
-		<text>FDDA Settings</text>
+		<text>FDDA Налаштування</text>
 	</string>
 
 	<string id="ui_mcm_EA_settings_enable_animations">
-		<text>Enable FDDA animations</text>
+		<text>Увімкнути анімації FDDA?</text>
 	</string>
 
 	<string id="ui_mcm_EA_settings_enable_backpack_addon">
-		<text>Enable backpack animations</text>
+		<text>Увімкнути анімації рюкзака?</text>
 	</string>
 
 	<string id="ui_mcm_EA_settings_enable_crouch_toggle_backpack_addon">
-		<text>Enable crouch animation for backpack</text>
+		<text>Увімкнути присідання для рюкзака?</text>
 	</string>
 
 	<string id="ui_mcm_EA_settings_mutant_loot">
-		<text>Enable mutant loot animations</text>
+		<text>Увімкнути анімацію оббілування?</text>
 	</string>
 
 	<string id="ui_mcm_EA_settings_take_item_anim">
-		<text>Enable items pickup animation</text>
+		<text>Увімкнути анімацію підбору предметів?</text>
 	</string>
 
 	<string id="ui_mcm_EA_settings_mutant_loot_desc">
-		<text>note: it automatically turns off \n
-		\n if FDDA animations are off</text>
+		<text>Увага!: Прапорець зніметься автоматично якщо анімації FDDA вимкнені</text>
 	</string>
 
 	<string id="ui_mcm_EA_settings_take_dist">
-		<text>Pickup animations distance</text>
+		<text>Дистанція підняття предметів (анім):</text>
 	</string>
 
 	<string id="ui_mcm_EA_settings_take_dist_desc">
-		<text>Default - 0.12, recommended value to fix \n
-		 magazines addon bug - 0.3-0.5</text>
+		<text>За замовчуванням = 0.12, рекомендоване значення для тих, у кого анімація спрацьовує на магазини = 0.3-0.5</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_ea_debug">
+		<text>Дебаг аддона (вкл)?</text>
 	</string>
 	
 	<string id="st_EA_ladder_item_not_allowed">
-      <text>Your hands are busy right now</text>
+      <text>Руки персонажа зараз зайняті</text>
     </string>
