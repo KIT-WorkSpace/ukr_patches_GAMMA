@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <!--
 	Anomaly Modconfiguration Menu strings
 -->
@@ -8,25 +9,25 @@
 		<text>I.N.E.R.T.I.A.</text>
 	</string>
 	<string id="ui_mcm_menu_crpmcm">
-		<text>Camera Reanim Project (Проект РеАнімації Камери)</text>
+		<text>Camera Reanim</text>
 	</string>
 	<string id="ui_mcm_crpmcm_jump_land">
-		<text>Ефект стрибка/приземлення:</text>
+		<text>Р•С„РµРєС‚ СЃС‚СЂРёР±РєР°/РїСЂРёР·РµРјР»РµРЅРЅСЏ:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_leaning">
-		<text>Ефект нахилу:</text>
+		<text>Р•С„РµРєС‚ РЅР°С…РёР»Сѓ:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_wpn_ads">
-		<text>Ефект прицілювання:</text>
+		<text>Р•С„РµРєС‚ РїСЂРёС†С–Р»СЋРІР°РЅРЅСЏ:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_moving">
-		<text>Ефект ходьби/бігу:</text>
+		<text>Р•С„РµРєС‚ С…РѕРґСЊР±Рё/Р±С–РіСѓ:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_crouch">
-		<text>Ефект присідання:</text>
+		<text>Р•С„РµРєС‚ РїСЂРёСЃС–РґР°РЅРЅСЏ:</text>
 	</string>
 	<string id="ui_mcm_crpmcm_fire_mode">
-		<text>Ефект перемикання режиму вогню:</text>
+		<text>Р•С„РµРєС‚ РїРµСЂРµРјРёРєР°РЅРЅСЏ СЂРµР¶РёРјСѓ РІРѕРіРЅСЋ:</text>
 	</string>
 
 </string_table>
